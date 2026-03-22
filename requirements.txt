@@ -2,5 +2,4 @@ streamlit
 matplotlib
 pandas
 numpy
-TfidfVectorizer
-cosine_similarity
+scikit-learn
